@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Ubuntu:wght@300;400;700&display=swap');
+* {
+    font-family: 'Playfair Display', serif;
+}
+
+.nav-item {
+    padding-left: 70px;
+    font-size: 16px;
+    color: #626262;
+}
+
+.navbar {
+    margin-top: 30px;
+}
+
+/* photodiary CSS start HERE */
+.wd{
+    width: 90%;
+    margin: auto;
+    padding-top:70px;
+
+}
+.gateway{
+
+    margin-bottom: 30px;
+    
+    font-size: 30px;
+    
+    color: #626262;
+    
+    text-transform: capitalize;
+    
+    }
+    .photo{
+        text-transform: uppercase;
+        color: #b4ad9e;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .gate{
+        
+    color: #626262;
+        
+    font-size: 16px;
+        
+    margin-bottom: 30px;
+    }
+    /* photodiary CSS END HERE */
+
+    /* LIFYSTYLE CSS start HERE */
+    .lifestyle{
+        color:  #b4ad9e;
+        text-transform: uppercase;
+        margin: 30px 0px;
+        font-size: 14px;
+    }
+    .america{
+        color: #626262;
+        font-size: 30px;
+        text-transform: none;
+        margin-bottom: 30px;
+    }
+    .Lorem{
+        font-size: 14px;
+        color: #626262;
+        margin-top: 15px;
+        line-height: 1.5;
+        letter-spacing: 1px;
+        margin-bottom: 90px;
+    }
+    .image{
+        background-size: cover;
+        width: 100%;
+    }
+
+
+    /* LIFYSTYLE CSS end HERE */
+    /* NEWSLETTER CSS start HERE */
+
+    .news{
+        width: 30%;
+        margin: auto;
+        position: relative;
+        padding: 50px 0 50px 0;
+    }
+    .wp{
+        background-color: #f0f0f0
+    }
+    .signup{
+        color: #626262;
+        font-size: 30px;
+        padding-bottom: 70px;
+    }
+    .news input{
+        border: none;
+        background-color:  transparent;
+        border-bottom: 1px solid;
+        width: 100%;
+        outline: none;
+        
+    }
+    .news input::placeholder{
+        font-size: 14px;
+        color: #626262;
+        text-transform: none;
+    }
+    .icon{
+    position: absolute;
+        
+    right: 0%;
+        
+    bottom: 0%;
+    transform: translate(-37%, -22%);
+    }
+    /* NEWSLETTER CSS end HERE */
+
+    /* Footer CSS startHERE */
+    .pad{
+        background-color: #f0f0f0;
+        padding: 30px;
+    }
+    .terms{
+        list-style: none;
+        overflow: hidden;
+        color: #101010;
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .terms ul li{
+    float: left;
+    margin-right: 24px;
+    }
+    .social-icon ul{
+        list-style: none;
+        color: #101010;
+        font-size: 14px;
+    }
+    .social-icon ul li{
+    float: left;    
+    margin-left: 32px;
+    }
+    
+    /* Footer CSS end HERE */
